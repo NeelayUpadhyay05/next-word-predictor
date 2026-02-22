@@ -13,12 +13,12 @@ Predicts the next word in a text sequence using LSTM neural networks. Built foll
 1. Clone repo: `git clone [your-repo-url]`
 2. Install: `pip install -r requirements.txt`
 3. Download dataset from Kaggle
-4. Run: `jupyter notebook lstm-next-word.ipynb`
+4. Run: `jupyter notebook lstm-next-word-prediction.ipynb`
 
 ## Tech Stack
-- Python, PyTorch/TensorFlow
-- Pandas, NumPy
-- Jupyter, Matplotlib
+- Python, PyTorch
+- NumPy
+- Jupyter
 
 ## License
 MIT License - see [LICENSE](LICENSE) file
