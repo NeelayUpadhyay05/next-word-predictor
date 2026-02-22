@@ -4,7 +4,8 @@ Predicts the next word in a text sequence using LSTM neural networks. Built foll
 
 ## Features
 - LSTM model for sequence prediction
-- Trained on Kaggle text datasets (e.g., Medium articles)
+- Trained on Sherlock Holmes stories corpus from Kaggle: [Sherlock Holmes Next-Word Prediction Corpus](https://www.kaggle.com/datasets/muhammadbilalhaneef/sherlock-holmes-next-word-prediction-corpus)
+
 - Tokenization and sequence preprocessing
 - Jupyter notebook implementation
 
